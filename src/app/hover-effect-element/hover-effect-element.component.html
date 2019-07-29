@@ -1,0 +1,33 @@
+<div style="background-image: url('assets/images/footer.jpg');">
+
+  <br>
+  <br>
+  <br>
+  <div _ngcontent-vwi-c3="" class="row mb-5 justify-content-center">
+      <div _ngcontent-vwi-c3="" class="col-lg-7 text-center">
+          <h2 _ngcontent-vwi-c3="" class="section-title">Exploring Presentations</h2>
+      </div>
+  </div> 
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
+  <div class="site-section courses-entry-wrap">
+    <div class="container">
+      <div class="row">
+        <ul *ngFor="let element of elements">
+  
+          <app-hover-effect-card [element]="element"></app-hover-effect-card>
+  
+        </ul>
+      </div>
+    </div>
+  </div>
+  
+</div>
+
