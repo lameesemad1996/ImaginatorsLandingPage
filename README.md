@@ -8,6 +8,10 @@
 
 ![4](https://github.com/lameesemad1996/ImaginatorsLandingPage/blob/master/Screenshot_4.png)
 
+![5](https://github.com/lameesemad1996/ImaginatorsLandingPage/blob/master/Screenshot_5.png)
+
+![6](https://github.com/lameesemad1996/ImaginatorsLandingPage/blob/master/Screenshot_6.png)
+
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
