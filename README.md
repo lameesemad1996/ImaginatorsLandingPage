@@ -1,4 +1,18 @@
-# Imaginators
+# Imaginators Landing Page
+
+![1]
+https://github.com/lameesemad1996/ImaginatorsLandingPage/blob/master/Screenshot_1.png
+
+![2]
+https://github.com/lameesemad1996/ImaginatorsLandingPage/blob/master/Screenshot_2.png
+
+![3]
+https://github.com/lameesemad1996/ImaginatorsLandingPage/blob/master/Screenshot_3.png
+
+![4]
+https://github.com/lameesemad1996/ImaginatorsLandingPage/blob/master/Screenshot_4.png
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
 
