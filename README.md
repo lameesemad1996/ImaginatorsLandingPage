@@ -1,16 +1,12 @@
 # Imaginators Landing Page
 
-![1]
-https://github.com/lameesemad1996/ImaginatorsLandingPage/blob/master/Screenshot_1.png
+![1](https://github.com/lameesemad1996/ImaginatorsLandingPage/blob/master/Screenshot_1.png)
 
-![2]
-https://github.com/lameesemad1996/ImaginatorsLandingPage/blob/master/Screenshot_2.png
+![2](https://github.com/lameesemad1996/ImaginatorsLandingPage/blob/master/Screenshot_2.png)
 
-![3]
-https://github.com/lameesemad1996/ImaginatorsLandingPage/blob/master/Screenshot_3.png
+![3](https://github.com/lameesemad1996/ImaginatorsLandingPage/blob/master/Screenshot_3.png)
 
-![4]
-https://github.com/lameesemad1996/ImaginatorsLandingPage/blob/master/Screenshot_4.png
+![4](https://github.com/lameesemad1996/ImaginatorsLandingPage/blob/master/Screenshot_4.png)
 
 
 
